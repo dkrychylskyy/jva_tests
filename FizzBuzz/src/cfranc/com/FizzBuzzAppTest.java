@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class FizzBuzzAppTest {
+public class FizzBuzzAppTest {
 
 	FizzBuzzApp app = new FizzBuzzApp();
 	
